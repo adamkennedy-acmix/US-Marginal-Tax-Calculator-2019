@@ -67,7 +67,7 @@ def mtc():
 
 # Function that closes program
 def done():
-    Print("You'er done!")
+    print("You'er done!")
 
 # This runs the main program
 mtc()
